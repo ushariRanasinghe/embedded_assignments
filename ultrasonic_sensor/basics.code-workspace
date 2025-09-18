@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "D:/Examples/arduino/basics"
+		},
+		{
+			"name": "Basics",
+			"path": "../Basics"
+		},
+		{
+			"name": "ultrasonic_sensor",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
